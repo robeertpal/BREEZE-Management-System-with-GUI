@@ -1,0 +1,74 @@
+[
+    {
+        "birthDate": "26/12/1972",
+        "braceletBalance": 71575.265625,
+        "checkedIn": true,
+        "email": "mirelacornelia@yahoo.com",
+        "firstName": "Mirela",
+        "lastName": "Pal",
+        "nationality": "RO",
+        "phone": "+40 (744) 437 197",
+        "ticketCode": "BREEZE-GA-370389213",
+        "ticketType": "GeneralAccess"
+    },
+    {
+        "birthDate": "24/02/2005",
+        "braceletBalance": 0.0,
+        "checkedIn": true,
+        "email": "robe.rt@icloud.com",
+        "firstName": "Pal",
+        "lastName": "Robert-Attila",
+        "nationality": "RO",
+        "phone": "+40 (743) 592 928",
+        "ticketCode": "BREEZE-MG-27429022",
+        "ticketType": "VIPMeetAndGreet"
+    },
+    {
+        "birthDate": "06/07/2005",
+        "braceletBalance": 0.0,
+        "checkedIn": true,
+        "email": "stefanpaun@icloud.com",
+        "firstName": "Stefan Antonio",
+        "lastName": "Paun",
+        "nationality": "MD",
+        "phone": "+40 (742) 637 282",
+        "ticketCode": "BREEZE-MG-115283894",
+        "ticketType": "VIPMeetAndGreet"
+    },
+    {
+        "birthDate": "27/03/2000",
+        "braceletBalance": 13.414922714233398,
+        "checkedIn": true,
+        "email": "norbert@icloud.com",
+        "firstName": "Norbert-Alexander",
+        "lastName": "Pal",
+        "nationality": "RO",
+        "phone": "07534263723",
+        "ticketCode": "BREEZE-MG-274266285",
+        "ticketType": "VIPMeetAndGreet"
+    },
+    {
+        "birthDate": "26/05/2000",
+        "braceletBalance": 0.0,
+        "checkedIn": false,
+        "email": "eremiaalin@yahoo.com",
+        "firstName": "Alin",
+        "lastName": "Eremia",
+        "nationality": "RO",
+        "phone": "0753727363",
+        "ticketCode": "BREEZE-MG-100880595",
+        "ticketType": "VIPMeetAndGreet"
+    },
+    {
+        "birthDate": "26/05/2001",
+        "braceletBalance": 0.0,
+        "checkedIn": true,
+        "email": "mariaaa2002@gmail.com",
+        "firstName": "Maria",
+        "lastName": "Popescu",
+        "nationality": "HU",
+        "phone": "0753427387",
+        "ticketCode": "BREEZE-GA-127464435",
+        "ticketType": "GeneralAccess"
+    }
+]

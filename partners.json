@@ -1,0 +1,20 @@
+[
+    {
+        "partnerBalance": 15.0,
+        "partnerID": 1,
+        "partnerName": "Burger King",
+        "partnerType": "Food"
+    },
+    {
+        "partnerBalance": 760.0,
+        "partnerID": 2,
+        "partnerName": "Coca Cola",
+        "partnerType": "Drinks"
+    },
+    {
+        "partnerBalance": 1579.0,
+        "partnerID": 3,
+        "partnerName": "IQOS",
+        "partnerType": "e-cigs"
+    }
+]

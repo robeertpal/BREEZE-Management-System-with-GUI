@@ -1,0 +1,82 @@
+[
+    {
+        "birthDate": "24/02/2005",
+        "email": "contact@robeert.vip",
+        "firstName": "Robert-Attila",
+        "id": 0,
+        "lastName": "Pal",
+        "nationality": "RO",
+        "phone": "+40 (743) 592 928",
+        "role": "TicketAgent"
+    },
+    {
+        "birthDate": "25/06/1996",
+        "email": "mariaionescu@breeze.com",
+        "firstName": "Maria",
+        "id": 1,
+        "lastName": "Ionescu",
+        "nationality": "RO",
+        "phone": "+40 (741) 987 654",
+        "role": "SecurityAgent"
+    },
+    {
+        "birthDate": "27/02/2003",
+        "email": "andreisomesan@breeze.com",
+        "firstName": "Andrei",
+        "id": 2,
+        "lastName": "Somesan",
+        "nationality": "RO",
+        "phone": "+40 (743) 263 517",
+        "role": "TopUpAgent"
+    },
+    {
+        "birthDate": "09/10/2003",
+        "email": "alineremia@yahoo.com",
+        "firstName": "Alin",
+        "id": 3,
+        "lastName": "Eremia",
+        "nationality": "RO",
+        "phone": "+40 (762) 238 281",
+        "role": "SecurityAgent"
+    },
+    {
+        "birthDate": "26/05/2001",
+        "email": "norbi@yahoo.com",
+        "firstName": "Norbert",
+        "id": 4,
+        "lastName": "Pal",
+        "nationality": "RO",
+        "phone": "0743592827",
+        "role": "TicketAgent"
+    },
+    {
+        "birthDate": "26/05/2005",
+        "email": "eduardo@yahoo.com",
+        "firstName": "eduardo",
+        "id": 5,
+        "lastName": "eduardo",
+        "nationality": "RO",
+        "phone": "0743263728",
+        "role": "TicketAgent"
+    },
+    {
+        "birthDate": "26/05/2002",
+        "email": "robi@yahoo.com",
+        "firstName": "robi",
+        "id": 6,
+        "lastName": "pal",
+        "nationality": "RO",
+        "phone": "0753426332",
+        "role": "TicketAgent"
+    },
+    {
+        "birthDate": "27/05/2001",
+        "email": "andrei@yahoo.com",
+        "firstName": "Andrei",
+        "id": 7,
+        "lastName": "Cota",
+        "nationality": "RO",
+        "phone": "0735263638",
+        "role": "TopUpAgent"
+    }
+]
