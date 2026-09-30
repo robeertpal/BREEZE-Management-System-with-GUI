@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>denied.jpg</file>
+        <file>logo.jpg</file>
+        <file>man.jpg</file>
+        <file>name.jpg</file>
+        <file>success.jpg</file>
+    </qresource>
+</RCC>
